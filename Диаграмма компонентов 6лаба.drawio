@@ -1,0 +1,40 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Страница-1" id="1ojHUNv7Zzmsv52O40XO">
+    <mxGraphModel dx="1249" dy="766" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="G2InMv1Y6BCDDpkIYluw-2" parent="1" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;" value="Клиентское приложение&lt;br&gt;&quot;КнигоУчёт.exe&quot;" vertex="1">
+          <mxGeometry height="110" width="190" x="80" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="G2InMv1Y6BCDDpkIYluw-20" edge="1" parent="1" source="G2InMv1Y6BCDDpkIYluw-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;endArrow=none;endFill=0;" target="G2InMv1Y6BCDDpkIYluw-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="G2InMv1Y6BCDDpkIYluw-3" parent="1" style="shape=providedRequiredInterface;html=1;verticalLabelPosition=bottom;sketch=0;labelPerimeter=1;direction=east;" value="" vertex="1">
+          <mxGeometry height="20" width="20" x="320" y="325" as="geometry" />
+        </mxCell>
+        <mxCell id="G2InMv1Y6BCDDpkIYluw-5" parent="1" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;" value="Основной сервер&lt;br&gt;&quot;main.exe&quot;" vertex="1">
+          <mxGeometry height="110" width="190" x="400" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="G2InMv1Y6BCDDpkIYluw-11" parent="1" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;" value="База данных&lt;br&gt;&quot;Книги&quot;" vertex="1">
+          <mxGeometry height="110" width="190" x="730" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="G2InMv1Y6BCDDpkIYluw-13" edge="1" parent="1" source="G2InMv1Y6BCDDpkIYluw-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=10;entryDy=0;entryPerimeter=0;defaultLabelBackgroundColor=page;endArrow=none;endFill=0;dashed=1;" target="G2InMv1Y6BCDDpkIYluw-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="G2InMv1Y6BCDDpkIYluw-15" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1;fontSize=10;" value="IAuthorise" vertex="1">
+          <mxGeometry height="30" width="60" x="300" y="295" as="geometry" />
+        </mxCell>
+        <mxCell id="G2InMv1Y6BCDDpkIYluw-17" parent="1" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;" value="База данных&lt;br&gt;&quot;Клиенты&quot;" vertex="1">
+          <mxGeometry height="110" width="190" x="730" y="390" as="geometry" />
+        </mxCell>
+        <mxCell id="G2InMv1Y6BCDDpkIYluw-18" edge="1" parent="1" source="G2InMv1Y6BCDDpkIYluw-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=10;entryDy=0;entryPerimeter=0;defaultLabelBackgroundColor=page;endArrow=none;endFill=0;dashed=1;" target="G2InMv1Y6BCDDpkIYluw-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="G2InMv1Y6BCDDpkIYluw-19" edge="1" parent="1" source="G2InMv1Y6BCDDpkIYluw-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=10;exitDy=0;exitPerimeter=0;entryX=1.15;entryY=0.483;entryDx=0;entryDy=0;entryPerimeter=0;defaultLabelBackgroundColor=page;endArrow=none;endFill=0;" target="G2InMv1Y6BCDDpkIYluw-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
