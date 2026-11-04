@@ -1,0 +1,85 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Страница-1" id="uck5UD9SBjDzmwq8exqu">
+    <mxGraphModel dx="1798" dy="1103" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="-Xbn_knX-4kkydygfvLx-21" edge="1" parent="1" source="-Xbn_knX-4kkydygfvLx-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="-Xbn_knX-4kkydygfvLx-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-Xbn_knX-4kkydygfvLx-22" edge="1" parent="1" source="-Xbn_knX-4kkydygfvLx-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="-Xbn_knX-4kkydygfvLx-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-Xbn_knX-4kkydygfvLx-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Клиент выбрал книгу" vertex="1">
+          <mxGeometry height="60" width="140" x="60" y="350" as="geometry" />
+        </mxCell>
+        <mxCell id="-Xbn_knX-4kkydygfvLx-9" edge="1" parent="1" source="-Xbn_knX-4kkydygfvLx-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="-Xbn_knX-4kkydygfvLx-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-Xbn_knX-4kkydygfvLx-11" edge="1" parent="1" source="-Xbn_knX-4kkydygfvLx-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="-Xbn_knX-4kkydygfvLx-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-Xbn_knX-4kkydygfvLx-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Проверка читательсокго билета" vertex="1">
+          <mxGeometry height="60" width="120" x="440" y="350" as="geometry" />
+        </mxCell>
+        <mxCell id="-Xbn_knX-4kkydygfvLx-8" edge="1" parent="1" source="-Xbn_knX-4kkydygfvLx-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="-Xbn_knX-4kkydygfvLx-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-Xbn_knX-4kkydygfvLx-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Билета нет в БД" vertex="1">
+          <mxGeometry height="60" width="120" x="610" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="-Xbn_knX-4kkydygfvLx-7" parent="1" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" value="" vertex="1">
+          <mxGeometry height="30" width="30" x="810" y="255" as="geometry" />
+        </mxCell>
+        <mxCell id="-Xbn_knX-4kkydygfvLx-14" edge="1" parent="1" source="-Xbn_knX-4kkydygfvLx-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="-Xbn_knX-4kkydygfvLx-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-Xbn_knX-4kkydygfvLx-15" edge="1" parent="1" source="-Xbn_knX-4kkydygfvLx-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="-Xbn_knX-4kkydygfvLx-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-Xbn_knX-4kkydygfvLx-10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Билет&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(#000000, var(--ge-light-color, #ffffff));&quot;&gt;есть в БД&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="610" y="460" as="geometry" />
+        </mxCell>
+        <mxCell id="-Xbn_knX-4kkydygfvLx-26" edge="1" parent="1" source="-Xbn_knX-4kkydygfvLx-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="-Xbn_knX-4kkydygfvLx-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-Xbn_knX-4kkydygfvLx-12" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Нет задолженностей" vertex="1">
+          <mxGeometry height="60" width="120" x="780" y="460" as="geometry" />
+        </mxCell>
+        <mxCell id="-Xbn_knX-4kkydygfvLx-18" edge="1" parent="1" source="-Xbn_knX-4kkydygfvLx-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="-Xbn_knX-4kkydygfvLx-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-Xbn_knX-4kkydygfvLx-13" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Есть задолженности" vertex="1">
+          <mxGeometry height="60" width="120" x="780" y="560" as="geometry" />
+        </mxCell>
+        <mxCell id="-Xbn_knX-4kkydygfvLx-28" edge="1" parent="1" source="-Xbn_knX-4kkydygfvLx-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="-Xbn_knX-4kkydygfvLx-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-Xbn_knX-4kkydygfvLx-16" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Книга выдана" vertex="1">
+          <mxGeometry height="60" width="120" x="960" y="460" as="geometry" />
+        </mxCell>
+        <mxCell id="-Xbn_knX-4kkydygfvLx-17" parent="1" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" value="" vertex="1">
+          <mxGeometry height="30" width="30" x="980" y="575" as="geometry" />
+        </mxCell>
+        <mxCell id="-Xbn_knX-4kkydygfvLx-23" edge="1" parent="1" source="-Xbn_knX-4kkydygfvLx-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;defaultLabelBackgroundColor=page;" target="-Xbn_knX-4kkydygfvLx-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-Xbn_knX-4kkydygfvLx-19" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Книга есть в наличии" vertex="1">
+          <mxGeometry height="60" width="140" x="250" y="350" as="geometry" />
+        </mxCell>
+        <mxCell id="-Xbn_knX-4kkydygfvLx-25" edge="1" parent="1" source="-Xbn_knX-4kkydygfvLx-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;defaultLabelBackgroundColor=page;" target="-Xbn_knX-4kkydygfvLx-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-Xbn_knX-4kkydygfvLx-20" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Книги нет в наличии" vertex="1">
+          <mxGeometry height="60" width="140" x="250" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="-Xbn_knX-4kkydygfvLx-24" parent="1" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" value="" vertex="1">
+          <mxGeometry height="30" width="30" x="470" y="495" as="geometry" />
+        </mxCell>
+        <mxCell id="-Xbn_knX-4kkydygfvLx-27" parent="1" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" value="" vertex="1">
+          <mxGeometry height="30" width="30" x="1120" y="475" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
